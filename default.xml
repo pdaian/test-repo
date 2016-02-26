@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <manifest>
+     <remote name="origin" fetch=".."/>
+     <default revision="refs/heads/master" remote="origin" sync-j="4"/>
+     <project name="c-semantics" remote="origin" path="c-semantics">
+     <project name="k-framework" remote="origin" path="k-framework"/>
+ </manifest>
